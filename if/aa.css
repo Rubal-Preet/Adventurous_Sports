@@ -1,0 +1,31 @@
+.a {
+  background-color: lightgrey;
+  width: 380px;
+  border: 25px solid green;
+  padding: 25px;  
+margin-left:0px;
+margin-top:0px;
+font-size:20px;
+}
+.b
+{
+background-color: lightgrey;
+  width: 320px;
+  border: 25px solid green;
+  padding: 25px;
+  
+margin-left:498px;
+margin-top:-310px;
+font-size:23px;
+}
+.c
+{
+background-color: lightgrey;
+  width: 310px;
+  border: 25px solid green;
+  padding: 15px;
+  
+margin-left:938px;
+margin-top:-308px;
+font-size:22px;
+}
